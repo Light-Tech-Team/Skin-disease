@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\bin\Debug\netstandard2.0\Skin-disease.deps.json
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\bin\Debug\netstandard2.0\Skin-disease.dll
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\bin\Debug\netstandard2.0\ref\Skin-disease.dll
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\bin\Debug\netstandard2.0\Skin-disease.pdb
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\obj\Debug\netstandard2.0\Skin-disease.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\obj\Debug\netstandard2.0\Skin-disease.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\obj\Debug\netstandard2.0\Skin-disease.AssemblyInfo.cs
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\obj\Debug\netstandard2.0\Skin-disease.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\obj\Debug\netstandard2.0\Skin-disease.dll
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\obj\Debug\netstandard2.0\ref\Skin-disease.dll
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\obj\Debug\netstandard2.0\Skin-disease.pdb
