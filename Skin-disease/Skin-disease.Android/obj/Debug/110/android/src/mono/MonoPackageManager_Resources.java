@@ -4,6 +4,7 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "Skin-disease.Android.dll" comes first in this list. */
 		"Skin-disease.Android.dll",
 		"FormsViewGroup.dll",
+		"Plugin.Media.dll",
 		"Skin-disease.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",

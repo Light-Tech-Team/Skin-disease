@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1zulA1aQ07At94WoieCNgIazPJ1FDFCIwMi4pHtALgVebFfkmorjgTY5WP6a6Ha5rsHF8M6NaitIlYaE6IWcfg==",
+  "dgSpecHash": "iZyII6kQaG7mkI3mVcnbe/ZuHoeOP8hW069JCEhHNhQpE8I9CfDmXDtOKEih7iKyfWB1M2La4e2KYVv7QS1Kuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\pc\\source\\repos\\Light-Tech-Team\\Skin-disease\\Skin-disease\\Skin-disease\\Skin-disease.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],

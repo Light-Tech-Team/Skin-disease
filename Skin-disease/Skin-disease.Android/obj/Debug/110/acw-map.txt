@@ -1,6 +1,9 @@
 Skin_disease.Droid.MainActivity, Skin-disease.Android;crc645a4e090afcf9fdb3.MainActivity
 Skin_disease.Droid.MainActivity;crc645a4e090afcf9fdb3.MainActivity
 skin_disease.droid.MainActivity;crc645a4e090afcf9fdb3.MainActivity
+Plugin.Media.MediaPickerActivity, Plugin.Media;crc646957603ea1820544.MediaPickerActivity
+Plugin.Media.MediaPickerActivity;crc646957603ea1820544.MediaPickerActivity
+plugin.media.MediaPickerActivity;crc646957603ea1820544.MediaPickerActivity
 AndroidX.Activity.IOnBackPressedDispatcherOwner, Xamarin.AndroidX.Activity;androidx.activity.OnBackPressedDispatcherOwner
 AndroidX.Activity.IOnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
 androidx.activity.OnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner

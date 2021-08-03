@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "04LVOIF+2Jj9lxc5KMJdxD+tVqJ9aptMoSKhEWHkXkLJfnefZYjEywvYxbp2ZQODqs/esZkmKzjInb4FabFg2A==",
+  "dgSpecHash": "QZ5jxVGVlH+VH4kjxTmfsdR7lak7/5xMPmYJvIGFX5hcFEYaFEDpMpIIFzvgP61m2nrWRnr2b15Cj0/NqY9K/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\pc\\source\\repos\\Light-Tech-Team\\Skin-disease\\Skin-disease\\Skin-disease.Android\\Skin-disease.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation.experimental\\1.0.0.8\\xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",
