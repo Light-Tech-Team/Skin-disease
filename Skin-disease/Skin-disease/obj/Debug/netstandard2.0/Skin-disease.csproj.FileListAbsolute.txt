@@ -12,3 +12,4 @@ C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\
 C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\obj\Debug\netstandard2.0\Skin-disease.dll
 C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\obj\Debug\netstandard2.0\ref\Skin-disease.dll
 C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\obj\Debug\netstandard2.0\Skin-disease.pdb
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs

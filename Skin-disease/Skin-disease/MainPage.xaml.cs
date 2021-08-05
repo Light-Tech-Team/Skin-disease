@@ -18,14 +18,16 @@ namespace Skin_disease
          
             InitializeComponent();
             TakePhotoAsync();
-           
+            
         }
         async Task TakePhotoAsync()
         {
             try
             {
                 var photo = await MediaPicker.CapturePhotoAsync();
+
                 await LoadPhotoAsync(photo);
+
                 Console.WriteLine($"CapturePhotoAsync COMPLETED: {PhotoPath}");
             }
             catch (FeatureNotSupportedException fnsEx)
@@ -57,7 +59,9 @@ namespace Skin_disease
                 await stream.CopyToAsync(newStream);
 
             PhotoPath = newFile;
-           
+            Navigation.PushAsync(new SecondPage(PhotoPath));
+            Console.WriteLine("Capture dia");
+
         }
     }
 }

@@ -19,7 +19,7 @@
                 </FormattedString>
             </Label.FormattedText>
         </Label>
-        <Image x:Name="Img"/>
+        
     </StackLayout>
 
 </ContentPage>
