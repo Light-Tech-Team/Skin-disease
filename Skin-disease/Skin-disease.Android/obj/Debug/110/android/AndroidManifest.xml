@@ -6,7 +6,7 @@
     the contents are regenerated.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.companyname.skin_disease" android:installLocation="auto" android:versionCode="1" android:versionName="1.0">
-  <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="30" />
+  <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="24" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-feature android:name="android.hardware.camera" android:required="true" />
   <uses-feature android:name="android.hardware.camera.autofocus" android:required="true" />
@@ -18,7 +18,7 @@
     <provider android:name="androidx.core.content.FileProvider" android:authorities="com.companyname.skin_disease.fileprovider" android:exported="false" android:grantUriPermissions="true">
       <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths" />
     </provider>
-    <activity android:name="crc645a4e090afcf9fdb3.MainActivity" android:configChanges="orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:icon="@mipmap/icon" android:label="Skin_disease" android:theme="@style/MainTheme">
+    <activity android:name="crc645a4e090afcf9fdb3.MainActivity" android:configChanges="orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:exported="true" android:icon="@mipmap/icon" android:label="Skin_disease" android:theme="@style/MainTheme">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

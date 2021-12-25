@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Skin-disease",
+    "\\Skin-disease\\Skin-disease"
   ],
+  "SelectedNode": "\\Skin-disease\\Skin-disease\\MainPage.xaml.cs",
   "PreviewInSolutionExplorer": false
 }

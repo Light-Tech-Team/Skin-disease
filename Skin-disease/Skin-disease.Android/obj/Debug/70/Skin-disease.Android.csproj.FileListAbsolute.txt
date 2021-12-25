@@ -1,0 +1,3 @@
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease.Android\obj\Debug\70\MonoAndroid,Version=v7.0.AssemblyAttributes.cs
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease.Android\obj\Debug\70\build.props
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease.Android\obj\Debug\70\adb.props

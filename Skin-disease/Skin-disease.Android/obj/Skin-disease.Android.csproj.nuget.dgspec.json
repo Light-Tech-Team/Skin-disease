@@ -42,6 +42,22 @@
       "frameworks": {
         "monoandroid11.0": {
           "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Microsoft.ML.ImageAnalytics": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Microsoft.ML.Vision": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "SciSharp.TensorFlow.Redist": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
             "Xam.Plugin.Media": {
               "target": "Package",
               "version": "[5.0.1, )"
@@ -98,11 +114,35 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Microsoft.ML.FastTree": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Microsoft.ML.ImageAnalytics": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Microsoft.ML.LightGbm": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Microsoft.ML.Vision": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "SciSharp.TensorFlow.Redist": {
+              "target": "Package",
+              "version": "[2.3.1, )"
             },
             "Xam.Plugin.Media": {
               "target": "Package",
@@ -110,7 +150,7 @@
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.6.1, )"
+              "version": "[1.7.0, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
@@ -127,7 +167,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

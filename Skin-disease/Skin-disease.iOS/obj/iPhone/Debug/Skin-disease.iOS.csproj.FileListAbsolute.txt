@@ -58,3 +58,8 @@ C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease.
 C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease.iOS\obj\iPhone\Debug\Skin-disease.iOS.csproj.CopyComplete
 C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease.iOS\obj\iPhone\Debug\Skin-disease.iOS.exe
 C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease.iOS\obj\iPhone\Debug\Skin-disease.iOS.pdb
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\pc\source\repos\Light-Tech-Team\Skin-disease\Skin-disease\Skin-disease.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
